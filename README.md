@@ -37,7 +37,7 @@
 | **Prim's MST** *(bonus)* | Compute the Minimum Spanning Tree of the flight network | O(E log V) |
 | **Budget Mode** *(bonus)* | Find all destinations reachable within a given cost budget | O((V + E) log V) |
 
-## Main Data Structures Used
+## 🔗 Main Data Structures Used
 
 - **Graph Adjacency List** (for efficient neighbor traversal)
 - **Priority Queue** (for Dijkstra’s algorithm)
