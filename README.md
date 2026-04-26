@@ -1,4 +1,4 @@
-# ✈️ Flight Connection Optimizer
+# ✈️ Flight Management System
 
 > **Academic Project** — Developed as part of two courses: **Data Structures** & **Databases** at UFAR, 2026
 
