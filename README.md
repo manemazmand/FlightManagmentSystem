@@ -39,7 +39,7 @@
 
 ## Main Data Structures Used
 
-- **Graph** Adjacency List (for efficient neighbor traversal)
+- **Graph Adjacency List** (for efficient neighbor traversal)
 - **Priority Queue** (for Dijkstra’s algorithm)
 - **Queue** (for BFS)
 - **Disjoint Set / DFS-based structures** (for Articulation Points and Prim’s MST)
