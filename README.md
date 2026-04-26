@@ -9,6 +9,7 @@
 ## 📌 Overview
 
   The Flight Management System is a web-based project that models airports and routes as a weighted directed graph, helping users easily explore and analyze flight connections. 
+  
   It helps answer practical questions faced by any airline, such as: what is the cheapest way to travel from city A to city B? Which route is the fastest? What airports can be reached with a limited number of layovers or within a fixed budget? And which airports are so important that their removal would disrupt the entire network? 
   All of this is powered by efficient graph algorithms, a Microsoft SQL Server database, and a modern React frontend, providing clear and interactive results.
 
